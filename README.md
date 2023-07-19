@@ -55,10 +55,10 @@ The Random Forest Model (best_model3) has demonstrated commendable performance i
 # **Recommendations**
 1. Embrace personalized outreach as a campaign tool so as to target individuals and mould their perception towards immunization.
 2. Public campaigns should be geared towards bringing onboard more younger people as it seems that they are less likely to get the seasonal flu vaccines.
-3. The public health sector should continue encouraging doctors to recommend suitable vaccines to their clients. This modelling and analysis process has shown that people are highly likely to listent ot their doctor's advice.
+3. The public health sector should continue encouraging doctors to recommend suitable vaccines to their clients. This modelling and analysis process has shown that people are highly likely to listen to their doctor's advice.
 
 **For further improvements:**
-1. Conduct more feature engineering to get more insight on features influencing uptake of the vaccine.
+1. Conduct more feature engineering to get more insight into features influencing the uptake of the vaccine.
 2. Using more recent data to create predictions, especially after the recent Covid-19 pandemic, may provide better outlooks on the results.
 
 
