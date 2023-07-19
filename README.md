@@ -1,7 +1,7 @@
 # **Predicting Uptake of Seasonal Flu Vaccine**
 **Authors:**
 1. Catherine Gakii
-2. Waruchu Kuria
+2. Waruchu Kuria  
 3. Michelle Mwendwa
 4. Cleophas Opati
 5. Felix Awino
